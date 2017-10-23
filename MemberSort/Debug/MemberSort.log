@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\shado\desktop\cp-member\membersort\membersort\main.cpp(43): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\shado\desktop\cp-member\membersort\membersort\main.cpp(45): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  MemberSort.vcxproj -> C:\Users\shado\Desktop\CP-Member\MemberSort\Debug\MemberSort.exe
+  MemberSort.vcxproj -> C:\Users\shado\Desktop\CP-Member\MemberSort\Debug\MemberSort.pdb (Partial PDB)

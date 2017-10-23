@@ -1,0 +1,18 @@
+﻿  main.cpp
+main.cpp(45): warning C4018: '<': signed/unsigned mismatch
+main.cpp(48): warning C4018: '<': signed/unsigned mismatch
+main.cpp(61): warning C4018: '<': signed/unsigned mismatch
+main.cpp(62): warning C4018: '<': signed/unsigned mismatch
+main.cpp(68): warning C4018: '<': signed/unsigned mismatch
+main.cpp(88): warning C4018: '<': signed/unsigned mismatch
+main.cpp(89): warning C4018: '<': signed/unsigned mismatch
+main.cpp(91): warning C4018: '<': signed/unsigned mismatch
+main.cpp(101): warning C4018: '<': signed/unsigned mismatch
+main.cpp(122): warning C4018: '<': signed/unsigned mismatch
+main.cpp(134): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  2 of 475 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  MemberSort.vcxproj -> C:\Users\shado\Desktop\CP-Member\MemberSort\Release\MemberSort.exe
