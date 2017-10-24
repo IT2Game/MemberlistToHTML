@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Created by https://www.gitignore.io/api/visualstudio,visualstudiocode
 
@@ -306,3 +307,6 @@ __pycache__/
 # should be stored in the .pubxml.user file.
 
 # End of https://www.gitignore.io/api/visualstudio,visualstudiocode
+=======
+*.exe
+>>>>>>> c1ab4434e61fb6958029330a94b26b5b7d21bab8
